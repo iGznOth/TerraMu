@@ -24,7 +24,6 @@
 35@1@117@Demon@170@90@Increase Attack (or wizardy) Power +40%- #Increase Attack Speed +10@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1170|@6720@2@2@1170|1171|@0@508@669
 35@2@118@Spirit of Guardian@170@90@Reduce damage from Monster +30% #Increase Max HP +50.@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1180|@6721@2@2@1180|1181|@0@508@669
 35@3@119@Pet Rudolf@170@90@Automatically collects zen@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1190|@6723@2@2@1190|1191|@0@508@669
-35@4@108@Pet Panda@170@90@20% Extra Experience    #@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1080|@6874@2@3@1080|1081|1082|@0@508@669
 36@1@145@Wizards Ring@170@250@[ATK\WIZ DMG] [+10%] #[ATK Speed] [+10] #@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1450|@6676@2@1@1450|@0@508@669
 36@2@146@Elixir of Strength@170@50@Strength Increase +50 for a 1 Hour. You cannot use two elixirs or more at the same time.@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1460|@7246@2@1@1460|@0@508@669
 36@3@147@Elixir of Agility@170@50@Agility Increase +50 for a 1 Hour.You cannot use two elixirs or more at the same time.@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1470|@7247@2@1@1470|@0@508@669
