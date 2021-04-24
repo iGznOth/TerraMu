@@ -1,0 +1,149 @@
+36@1@1@Orb of Impale@170@25@Skill@@182@185@0@0@177@1@Goblin Point@Goblin Point@181@200@0@8|@6157@5@2@195|@0@0@669
+36@2@2@Orb of Twishing Slash@170@60@Skill@@182@185@0@0@177@1@Goblin Point@Goblin Point@181@200@0@8|@6151@5@2@196|@0@0@669
+36@3@3@Orb of Fortitude@170@100@Skill@@182@185@0@0@177@1@Goblin Point@Goblin Point@181@200@0@8|@6158@5@2@197|@0@0@669
+36@4@4@Orb of Death Stab@170@120@Skill@@182@185@0@0@177@1@Goblin Point@Goblin Point@181@200@0@8|@6163@5@2@198|@0@0@669
+36@5@5@Orb of Rageful Blow@170@120@Skill@@182@185@0@0@177@1@Goblin Point@Goblin Point@181@200@0@8|@6156@5@2@199|@0@0@669
+36@6@6@Orb of Fire Slash@170@180@Skill@@182@185@0@0@177@1@Goblin Point@Goblin Point@181@200@0@8|@6160@5@2@200|@0@0@669
+36@7@7@Orb of Healing@170@25@Skill@@182@185@0@0@177@1@Goblin Point@Goblin Point@181@200@0@8|@6152@5@2@201|@0@0@669
+36@8@8@Orb of Grater Defense@170@60@Skill@@182@185@0@0@177@1@Goblin Point@Goblin Point@181@200@0@8|@6153@5@2@202|@0@0@669
+36@9@9@Orb of Greater Damage@170@60@Skill@@182@185@0@0@177@1@Goblin Point@Goblin Point@181@200@0@8|@6154@5@2@203|@0@0@669
+36@10@10@Orb of Penetration@170@120@Skill@@182@185@0@0@177@1@Goblin Point@Goblin Point@181@200@0@8|@6161@5@2@204|@0@0@669
+36@11@11@Orb of Ice Arrow@170@180@Skill@@182@185@0@0@177@1@Goblin Point@Goblin Point@181@200@0@8|@6162@5@2@205|@0@0@669
+36@12@12@Scroll of Fire Burst@170@25@Skill@@182@185@0@0@177@1@Goblin Point@Goblin Point@181@200@0@8|@6165@5@2@206|@0@0@669
+36@13@13@Scroll of Critical Damage@170@150@Skill@@182@185@0@0@177@1@Goblin Point@Goblin Point@181@200@0@8|@6167@5@2@207|@0@0@669
+36@14@14@Scroll of Electric Spark@170@150@Skill@@182@185@0@0@177@1@Goblin Point@Goblin Point@181@200@0@8|@6168@5@2@208|@0@0@669
+36@15@15@Scroll of Summon@170@300@Skill@@182@185@0@0@177@1@Goblin Point@Goblin Point@181@200@0@8|@6166@5@2@209|@0@0@669
+36@16@16@Scroll of Poison@170@50@Skill@@182@185@0@0@177@1@Goblin Point@Goblin Point@181@200@0@8|@7680@5@2@210|@0@0@669
+36@17@17@Scroll of Meteorite@170@25@Skill@@182@185@0@0@177@1@Goblin Point@Goblin Point@181@200@0@8|@7681@5@2@211|@0@0@669
+36@18@18@Scroll of Lighting@170@25@Skill@@182@185@0@0@177@1@Goblin Point@Goblin Point@181@200@0@8|@7682@5@2@212|@0@0@669
+36@19@19@Scroll of Fire Ball@170@25@Skill@@182@185@0@0@177@1@Goblin Point@Goblin Point@181@200@0@8|@7683@5@2@213|@0@0@669
+36@20@20@Scroll of Flame@170@50@Skill@@182@185@0@0@177@1@Goblin Point@Goblin Point@181@200@0@8|@7684@5@2@214|@0@0@669
+36@21@21@Scroll of  Teleport@170@30@Skill@@182@185@0@0@177@1@Goblin Point@Goblin Point@181@200@0@8|@7685@5@2@215|@0@0@669
+36@22@22@Scroll of Ice@170@50@Skill@@182@185@0@0@177@1@Goblin Point@Goblin Point@181@200@0@8|@7686@5@2@216|@0@0@669
+36@23@23@Scroll of Twister@170@60@Skill@@182@185@0@0@177@1@Goblin Point@Goblin Point@181@200@0@8|@7687@5@2@217|@0@0@669
+36@24@24@Scroll of Evil Spirit@170@60@Skill@@182@185@0@0@177@1@Goblin Point@Goblin Point@181@200@0@8|@7688@5@2@218|@0@0@669
+36@25@25@Scroll of Hell Fire@170@60@Skill@@182@185@0@0@177@1@Goblin Point@Goblin Point@181@200@0@8|@7689@5@2@219|@0@0@669
+36@26@26@Scroll of PowerWave@170@25@Skill@@182@185@0@0@177@1@Goblin Point@Goblin Point@181@200@0@8|@7690@5@2@220|@0@0@669
+36@27@27@Scroll of Aqua Beam@170@75@Skill@@182@185@0@0@177@1@Goblin Point@Goblin Point@181@200@0@8|@7691@5@2@221|@0@0@669
+36@28@28@Scroll of Cometfall@170@90@Skill@@182@185@0@0@177@1@Goblin Point@Goblin Point@181@200@0@8|@7692@5@2@222|@0@0@669
+36@29@29@Scroll of Inferno@170@100@Skill@@182@185@0@0@177@1@Goblin Point@Goblin Point@181@200@0@8|@7693@5@2@223|@0@0@669
+36@30@30@Scroll of Teleport Ally@170@90@Skill@@182@185@0@0@177@1@Goblin Point@Goblin Point@181@200@0@8|@7694@5@2@224|@0@0@669
+36@31@31@Scroll of Soul Barrier@170@240@Skill@@182@185@0@0@177@1@Goblin Point@Goblin Point@181@200@0@8|@7695@5@2@225|@0@0@669
+36@32@32@Scroll of Decay@170@250@Skill@@182@185@0@0@177@1@Goblin Point@Goblin Point@181@200@0@8|@7696@5@2@226|@0@0@669
+36@33@33@Scroll of Ice Storm@170@250@Skill@@182@185@0@0@177@1@Goblin Point@Goblin Point@181@200@0@8|@7697@5@2@227|@0@0@669
+36@34@34@Scroll of Nova@170@300@Skill@@182@185@0@0@177@1@Goblin Point@Goblin Point@181@200@0@8|@7698@5@2@228|@0@0@669
+36@35@35@Chain Lighting Parchment@170@25@Skill@@182@185@0@0@177@1@Goblin Point@Goblin Point@181@200@0@8|@7699@5@2@229|@0@0@669
+36@36@36@Drain Life Parchment@170@60@Skill@@182@185@0@0@177@1@Goblin Point@Goblin Point@181@200@0@8|@7700@5@2@230|@0@0@669
+36@37@37@Lighting Shock Parchment@170@180@Skill@@182@185@0@0@177@1@Goblin Point@Goblin Point@181@200@0@8|@7701@5@2@231|@0@0@669
+36@38@38@Reflect Parchment@170@300@Skill@@182@185@0@0@177@1@Goblin Point@Goblin Point@181@200@0@8|@7702@5@2@232|@0@0@669
+36@39@39@Sleep Parchment@170@300@Skill@@182@185@0@0@177@1@Goblin Point@Goblin Point@181@200@0@8|@7704@5@2@233|@0@0@669
+36@40@40@Berserker Parchment@170@360@Skill@@182@185@0@0@177@1@Goblin Point@Goblin Point@181@200@0@8|@7703@5@2@234|@0@0@669
+36@41@41@Weakness Parchment@170@240@Skill@@182@185@0@0@177@1@Goblin Point@Goblin Point@181@200@0@8|@7706@5@2@235|@0@0@669
+36@42@42@Innovation Parchment@170@240@Skill@@182@185@0@0@177@1@Goblin Point@Goblin Point@181@200@0@8|@7707@5@2@236|@0@0@669
+36@43@43@Chain Drive Parchment@170@600@Skill@@182@185@0@0@177@1@Goblin Point@Goblin Point@181@200@0@8|@7710@5@2@237|@0@0@669
+36@44@44@Dark Side Parchment@170@600@Skill@@182@185@0@0@177@1@Goblin Point@Goblin Point@181@200@0@8|@7711@5@2@238|@0@0@669
+36@45@45@Dragon Lore Parchment@170@600@Skill@@182@185@0@0@177@1@Goblin Point@Goblin Point@181@200@0@8|@7712@5@2@239|@0@0@669
+36@46@46@Dragon Slayer Parchment@170@720@Skill@@182@185@0@0@177@1@Goblin Point@Goblin Point@181@200@0@8|@7713@5@2@240|@0@0@669
+36@47@47@Ignore Parchment@170@150@Skill@@182@185@0@0@177@1@Goblin Point@Goblin Point@181@200@0@8|@7714@5@2@241|@0@0@669
+36@48@48@Fitness Parchment@170@120@Skill@@182@185@0@0@177@1@Goblin Point@Goblin Point@181@200@0@8|@7715@5@2@242|@0@0@669
+36@49@49@Defense Rate Parchment@170@120@Skill@@182@185@0@0@177@1@Goblin Point@Goblin Point@181@200@0@8|@7716@5@2@243|@0@0@669
+36@50@50@Crystall of FlameStrike@170@1200@Skill@@182@185@0@0@177@1@Goblin Point@Goblin Point@181@200@0@8|@6191@5@2@244|@0@0@669
+36@51@51@Crystall of Destruction@170@1000@Skill@@182@185@0@0@177@1@Goblin Point@Goblin Point@181@200@0@8|@6188@5@2@245|@0@0@669
+36@52@52@Crystall of Multishot@170@1000@Skill@@182@185@0@0@177@1@Goblin Point@Goblin Point@181@200@0@8|@6189@5@2@246|@0@0@669
+36@53@53@Crystall of Recovery SD@170@1000@Skill@@182@185@0@0@177@1@Goblin Point@Goblin Point@181@200@0@8|@6190@5@2@247|@0@0@669
+36@54@54@Scroll of Chaotic Diseier@170@1000@Skill@@182@185@0@0@177@1@Goblin Point@Goblin Point@181@200@0@8|@6192@5@2@248|@0@0@669
+36@55@55@Scroll of Wizardy Enhance@170@600@Skill@@182@185@0@0@177@1@Goblin Point@Goblin Point@181@200@0@8|@7708@5@2@249|@0@0@669
+36@56@56@Scroll of Gigantic Storm@170@1200@Skill@@182@185@0@0@177@1@Goblin Point@Goblin Point@181@200@0@8|@7709@5@2@250|@0@0@669
+16@2@58@Seal of Wealth@170@250@Add +25 %EXP Increase@@182@184@0@0@177@1@WCoin(P)@WCoin(P)@181@200@0@1|@6700@3@2@4|@0@509@669
+16@3@59@Seal of Wealth@170@1000@Add +25 %EXP Increase@@182@184@0@0@177@1@WCoin(P)@WCoin(P)@181@200@0@1|@6700@3@2@9|@0@509@669
+16@4@60@Seal of Wealth@170@1500@Add +25 %EXP Increase@@182@184@0@0@177@1@WCoin(P)@WCoin(P)@181@200@0@1|@6700@3@2@16|@0@509@669
+27@1@61@Seal of Ascension@170@600@Add +15 %EXP Increase@@182@185@0@0@177@1@Goblin Point@Goblin Point@181@200@0@1|@6699@5@2@5|@0@0@669
+27@2@62@Seal of Ascension@170@2000@Add +15 %EXP Increase@@182@185@0@0@177@1@Goblin Point@Goblin Point@181@200@0@1|@6699@5@2@10|@0@0@669
+27@3@63@Seal of Ascension@170@5000@Add +15 %EXP Increase@@182@185@0@0@177@1@Goblin Point@Goblin Point@181@200@0@1|@6699@5@2@15|@0@0@669
+17@2@73@Scroll of Quickness@170@50@+15 Speed@@182@184@0@0@177@1@WCoin(P)@WCoin(P)@181@200@0@11|11|11|@7240@3@2@65|66|67|@0@509@669
+17@3@74@Scroll of Protection@170@50@+60 DEF@@182@184@0@0@177@1@WCoin(P)@WCoin(P)@181@200@0@12|12|12|@7241@3@2@68|69|70|@0@509@669
+17@4@75@Scroll of Wrath@170@50@+40 DMG@@182@184@0@0@177@1@WCoin(P)@WCoin(P)@181@200@0@13|13|13|@7242@3@2@71|72|73|@0@509@669
+17@5@76@Scroll of Wizardy@170@50@+40 WizDMG@@182@184@0@0@177@1@WCoin(P)@WCoin(P)@181@200@0@14|14|14|@7243@3@2@74|75|76|@0@509@669
+17@6@77@Scroll of Health@170@50@+200 HP@@182@184@0@0@177@1@WCoin(P)@WCoin(P)@181@200@0@15|15|15|@7244@3@2@77|78|79|@0@509@669
+17@7@78@Scroll of Battle@170@75@+20 %Critical DMG@@182@184@0@0@177@1@WCoin(P)@WCoin(P)@181@200@0@16|16|16|@7265@3@2@80|81|82|@0@509@669
+17@8@79@Scroll of Strenght@170@75@+20 %xDMG@@182@184@0@0@177@1@WCoin(P)@WCoin(P)@181@200@0@17|17|17|@7266@3@2@83|84|85|@0@509@669
+19@1@80@Elixir of Strenght@170@50@+50 Points STR@@182@184@0@0@177@1@WCoin(P)@WCoin(P)@181@200@0@18|18|18|@7246@3@2@86|87|88|@0@509@669
+19@2@81@Elixir of Agility@170@50@+50 Points AGI@@182@184@0@0@177@1@WCoin(P)@WCoin(P)@181@200@0@19|19|19|@7247@3@2@89|90|91|@0@509@669
+19@3@82@Elixir of Vitality@170@50@+50 Points VIT@@182@184@0@0@177@1@WCoin(P)@WCoin(P)@181@200@0@20|20|20|@7248@3@2@92|93|94|@0@509@669
+19@4@83@Elixir of Energy@170@50@+50 Points ENE@@182@184@0@0@177@1@WCoin(P)@WCoin(P)@181@200@0@21|21|21|@7249@3@2@95|96|97|@0@509@669
+19@5@84@Elixir of Command@170@50@+50 Points CMD@@182@184@0@0@177@1@WCoin(P)@WCoin(P)@181@200@0@22|22|22|@7250@3@2@98|99|100|@0@509@669
+29@1@85@Scroll of Quickness@170@250@+15 Speed@@182@185@0@0@177@1@Goblin Point@Goblin Point@181@200@0@23|23|23|@7240@5@2@147|148|149|@0@0@669
+29@2@86@Scroll of Protect@170@250@+60 DEF@@182@185@0@0@177@1@Goblin Point@Goblin Point@181@200@0@24|24|24|@7241@5@2@150|151|152|@0@0@669
+29@3@87@Scroll of Wrath@170@250@+40 DMG@@182@185@0@0@177@1@Goblin Point@Goblin Point@181@200@0@25|25|25|@7242@5@2@153|154|155|@0@0@669
+29@5@89@Scroll of Wizardy@170@250@+40 WizDMG@@182@185@0@0@177@1@Goblin Point@Goblin Point@181@200@0@26|26|26|@7243@5@2@156|157|158|@0@0@669
+29@6@90@Scroll of Health@170@250@+200 HP@@182@185@0@0@177@1@Goblin Point@Goblin Point@181@200@0@27|27|27|@7244@5@2@159|160|161|@0@0@669
+29@7@91@Scroll of Battle@170@400@+20 %Critical DMG@@182@185@0@0@177@1@Goblin Point@Goblin Point@181@200@0@28|28|28|@7265@5@2@162|163|164|@0@0@669
+29@8@92@Scroll of Strenght@170@400@+20 %xDMG@@182@185@0@0@177@1@Goblin Point@Goblin Point@181@200@0@29|29|29|@7266@5@2@165|166|167|@0@0@669
+31@1@93@Elixir of Strenght@170@250@+50 Points STR@@182@185@0@0@177@1@Goblin Point@Goblin Point@181@200@0@30|30|30|@7246@5@2@168|169|170|@0@0@669
+31@2@94@Elixir of Agility@170@250@+50 Points AGI@@182@185@0@0@177@1@Goblin Point@Goblin Point@181@200@0@31|31|31|@7247@5@2@171|172|173|@0@0@669
+31@3@95@Elixir of Vitality@170@250@+50 Points VIT@@182@185@0@0@177@1@Goblin Point@Goblin Point@181@200@0@32|32|32|@7248@5@2@174|175|176|@0@0@669
+31@4@96@Elixir of Energy@170@250@+50 Points ENE@@182@185@0@0@177@1@Goblin Point@Goblin Point@181@200@0@33|33|33|@7249@5@2@177|178|179|@0@0@669
+31@5@97@Elixir of Command@170@250@+50 Points CMD@@182@185@0@0@177@1@Goblin Point@Goblin Point@181@200@0@34|34|34|@7250@5@2@180|181|182|@0@0@669
+18@1@98@Angel@170@100@Absorve 40 %DMG PvM@@182@184@0@0@177@1@WCoin(P)@WCoin(P)@181@200@0@35|35|35|@6721@3@2@102|103|104|@0@509@669
+18@2@99@Demon@170@150@Add 40 %DMG PvM/PvP@@182@184@0@0@177@1@WCoin(P)@WCoin(P)@181@200@0@36|36|36|@6720@3@2@105|106|107|@0@509@669
+18@3@100@Lethal Ring Wizard@170@150@Add 20 %DMG PvM/PvP@@182@184@0@0@177@1@WCoin(P)@WCoin(P)@181@200@0@37|37|37|@6763@3@2@108|109|110|@0@509@669
+18@4@101@Ring Wizard@170@100@Add 10 %DMG PvM/PvP@@182@184@0@0@177@1@WCoin(P)@WCoin(P)@181@200@0@38|38|38|@6676@3@2@111|112|113|@0@509@669
+30@1@102@Angel@170@250@Absorve 40 %DMG PvM@@182@185@0@0@177@1@Goblin Point@Goblin Point@181@200@0@39|39|39|@6721@5@2@183|184|185|@0@0@669
+30@2@103@Demon@170@1000@Add 40 %DMG PvM/PvP@@182@185@0@0@177@1@Goblin Point@Goblin Point@181@200@0@40|40|40|@6720@5@2@186|187|188|@0@0@669
+30@3@104@Lethal Ring Wizard@170@800@Add 20 %DMG PvM/PvP@@182@185@0@0@177@1@Goblin Point@Goblin Point@181@200@0@42|42|42|@6763@5@2@192|193|194|@0@0@669
+30@4@105@Ring Wizard@170@250@Add 10 %DMG PvM/PvP@@182@185@0@0@177@1@Goblin Point@Goblin Point@181@200@0@41|41|41|@6676@5@2@189|190|191|@0@0@669
+22@1@106@1st Lucky Armor Ticket@170@750@1st Lucky ITEM (+9 ~ +15)@@182@184@0@0@177@1@WCoin(P)@WCoin(P)@181@200@0@6|@6791@3@2@41|@0@509@669
+22@2@107@1st Lucky Pants Ticket@170@750@1st Lucky ITEM (+9 ~ +15)@@182@184@0@0@177@1@WCoin(P)@WCoin(P)@181@200@0@6|@6792@3@2@42|@0@509@669
+22@3@108@1st Lucky Helm Ticket@170@750@1st Lucky ITEM (+9 ~ +15)@@182@184@0@0@177@1@WCoin(P)@WCoin(P)@181@200@0@6|@6793@3@2@43|@0@509@669
+22@4@109@1st Lucky Gloves Ticket@170@750@1st Lucky ITEM (+9 ~ +15)@@182@184@0@0@177@1@WCoin(P)@WCoin(P)@181@200@0@6|@6794@3@2@44|@0@509@669
+22@5@110@1st Lucky Boots Ticket@170@750@1st Lucky ITEM (+9 ~ +15)@@182@184@0@0@177@1@WCoin(P)@WCoin(P)@181@200@0@6|@6795@3@2@45|@0@509@669
+22@6@111@2nd Lucky Armor Ticket@170@1000@2nd Lucky ITEM (+9 ~ +15)@@182@184@0@0@177@1@WCoin(P)@WCoin(P)@181@200@0@6|@6796@3@2@46|@0@509@669
+22@7@112@2nd Lucky Pants Ticket@170@1000@2nd Lucky ITEM (+9 ~ +15)@@182@184@0@0@177@1@WCoin(P)@WCoin(P)@181@200@0@6|@6797@3@2@47|@0@509@669
+22@8@113@2nd Lucky Helm Ticket@170@1000@2nd Lucky ITEM (+9 ~ +15)@@182@184@0@0@177@1@WCoin(P)@WCoin(P)@181@200@0@6|@6798@3@2@48|@0@509@669
+22@9@114@2nd Lucky Gloves Ticket@170@1000@2nd Lucky ITEM (+9 ~ +15)@@182@184@0@0@177@1@WCoin(P)@WCoin(P)@181@200@0@6|@6799@3@2@49|@0@509@669
+22@10@115@2nd Lucky Boots Ticket@170@1000@2nd Lucky ITEM (+9 ~ +15)@@182@184@0@0@177@1@WCoin(P)@WCoin(P)@181@200@0@6|@6800@3@2@50|@0@509@669
+22@11@116@Jewel of Extension@170@100@Repair Lucky ITEM@@182@184@0@0@177@1@WCoin(P)@WCoin(P)@181@200@0@6|@7328@3@2@51|@0@509@669
+22@12@117@Jewel of Elevation@170@25@Add JOH Option into Lucky@@182@184@0@0@177@1@WCoin(P)@WCoin(P)@181@200@0@6|@7329@3@2@52|@0@509@669
+21@1@118@Death-Beam Knight Flame@170@250@Quest lvl3@@182@184@0@0@177@1@WCoin(P)@WCoin(P)@181@200@0@4|@7233@3@2@53|@0@509@669
+21@2@119@Hell-Miner Horn@170@250@Quest lvl3@@182@184@0@0@177@1@WCoin(P)@WCoin(P)@181@200@0@4|@7234@3@2@54|@0@509@669
+21@3@120@Dark Phoenix Feather@170@250@Quest lvl3@@182@184@0@0@177@1@WCoin(P)@WCoin(P)@181@200@0@4|@7235@3@2@55|@0@509@669
+32@1@121@Death-Beam Knight Flame@170@5000@Quest lvl3@@182@185@0@0@177@1@Goblin Point@Goblin Point@181@200@0@4|@7233@5@2@58|@0@0@669
+32@2@122@Hell-Miner Horn@170@5000@Quest lvl3@@182@185@0@0@177@1@Goblin Point@Goblin Point@181@200@0@4|@7234@5@2@59|@0@0@669
+32@3@123@Dark Phoenix Feather@170@5000@Quest lvl3@@182@185@0@0@177@1@Goblin Point@Goblin Point@181@200@0@4|@7235@5@2@60|@0@0@669
+33@1@124@Reset Fruit Strenght@170@5000@Rebuild 2000 STR Points@@182@185@0@0@177@1@Goblin Point@Goblin Point@181@200@0@5|@6710@5@2@34|@0@0@669
+33@2@125@Reset Fruit Quickness@170@5000@Rebuild 2000 AGI Points@@182@185@0@0@177@1@Goblin Point@Goblin Point@181@200@0@5|@6711@5@2@35|@0@0@669
+33@3@126@Reset Fruit Health@170@5000@Rebuild 2000 VIT Points@@182@185@0@0@177@1@Goblin Point@Goblin Point@181@200@0@5|@6712@5@2@36|@0@0@669
+33@4@127@Reset Fruit Energy@170@5000@Rebuild 2000 ENE Points@@182@185@0@0@177@1@Goblin Point@Goblin Point@181@200@0@5|@6713@5@2@37|@0@0@669
+33@5@128@Reset Fruit Control@170@5000@Rebuild 2000 CMD Points@@182@185@0@0@177@1@Goblin Point@Goblin Point@181@200@0@5|@6714@5@2@38|@0@0@669
+24@1@129@Blood Castle Ticket@170@1000@x25 Tickets for Event@@182@184@0@0@177@1@WCoin(P)@WCoin(P)@181@200@0@7|@6703@3@2@132|@0@509@669
+24@2@130@Devil Square Ticket@170@1000@x25 Tickets for Event@@182@184@0@0@177@1@WCoin(P)@WCoin(P)@181@200@0@7|@6702@3@2@131|@0@509@669
+24@3@131@Kalima Ticket@170@1000@x25 Tickets for Event@@182@184@0@0@177@1@WCoin(P)@WCoin(P)@181@200@0@7|@6704@3@2@133|@0@509@669
+24@4@132@Mirror Ticket@170@1000@x25 Tickets for Event@@182@184@0@0@177@1@WCoin(P)@WCoin(P)@181@200@0@7|@6781@3@2@135|@0@509@669
+24@5@133@Gaion M-S Ticket@170@1000@x25 Tickets for Event@@182@184@0@0@177@1@WCoin(P)@WCoin(P)@181@200@0@7|@6782@3@2@136|@0@509@669
+24@6@134@Gaion Sunday Ticket@170@1000@x25 Tickets for Event@@182@184@0@0@177@1@WCoin(P)@WCoin(P)@181@200@0@7|@6783@3@2@137|@0@509@669
+35@1@135@Blood Castle Ticket@170@10000@x10 Tickets for Event@@182@185@0@0@177@1@Goblin Point@Goblin Point@181@200@0@7|@6703@5@2@252|@0@0@669
+35@2@136@Devil Square Ticket@170@10000@x10 Tickets for Event@@182@185@0@0@177@1@Goblin Point@Goblin Point@181@200@0@7|@6702@5@2@251|@0@0@669
+35@3@137@Kalima Ticket@170@10000@x10 Tickets for Event@@182@185@0@0@177@1@Goblin Point@Goblin Point@181@200@0@7|@6704@5@2@253|@0@0@669
+35@4@138@Mirror Ticket@170@10000@x10 Tickets for Event@@182@185@0@0@177@1@Goblin Point@Goblin Point@181@200@0@7|@6781@5@2@254|@0@0@669
+35@5@139@Gaion M-S Ticket@170@10000@x10 Tickets for Event@@182@185@0@0@177@1@Goblin Point@Goblin Point@181@200@0@7|@6782@5@2@255|@0@0@669
+35@6@140@Gaion Sunday Ticket@170@10000@x10 Tickets for Event@@182@185@0@0@177@1@Goblin Point@Goblin Point@181@200@0@7|@6783@5@2@256|@0@0@669
+23@1@141@Talisman of Chaos Assembly@170@500@CM Item doesnt disappear@@182@184@0@0@177@1@WCoin(P)@WCoin(P)@181@200@0@4|@7264@3@2@40|@0@509@669
+23@2@142@Talisman of Luck@170@250@Add 10 %in CM Rate@@182@184@0@0@177@1@WCoin(P)@WCoin(P)@181@200@0@4|@7221@3@2@39|@0@509@669
+23@3@143@Magic Backpack@170@250@Inv Expansion@@182@184@0@0@177@1@WCoin(P)@WCoin(P)@181@200@0@4|@7330@3@2@61|@0@509@669
+23@4@144@Vault Expansion@170@500@Vault Expansion@@182@184@0@0@177@1@WCoin(P)@WCoin(P)@181@200@0@4|@7331@3@2@62|@0@509@669
+34@1@145@Talisman of Chaos Assembly@170@10000@CM Item doesnt disappear@@182@185@0@0@177@1@Goblin Point@Goblin Point@181@200@0@4|@7264@5@2@64|@0@0@669
+34@2@146@Talisman of Luck@170@7500@Add +10 %in CM Rate@@182@185@0@0@177@1@Goblin Point@Goblin Point@181@200@0@4|@7221@5@2@63|@0@0@669
+38@2@150@Chaos Card Mini@170@500@Check SITE for ITEM List.@@182@185@0@0@177@1@WCoin(C)@WCoin(C)@181@200@0@1|@7260@2@2@259|@0@508@669
+38@3@151@Chaos Card Gold@170@5000@Check SITE for ITEM List.@@182@185@0@0@177@1@WCoin(C)@WCoin(C)@181@200@0@1|@7261@2@2@260|@0@508@669
+38@4@152@Chaos Card Rare@170@10000@Check SITE for ITEM List.@@182@185@0@0@177@1@WCoin(C)@WCoin(C)@181@200@0@1|@7263@2@2@261|@0@508@669
+25@2@154@Scroll of Battle@170@1500@Package Scroll (All) 10 Days@@182@184@0@0@177@1@WCoin(P)@WCoin(P)@181@200@0@50|50|50|50|50|50|50|@7265@3@1@267|262|263|264|265|266|268|@0@509@669
+25@3@155@Elixir of Strenght@170@600@Package Elixir (All) 10 Days@@182@184@0@0@177@1@WCoin(P)@WCoin(P)@181@200@0@51|51|51|51|51|@7246@3@1@269|270|271|272|273|@0@509@669
+34@5@156@Magic Backpack@170@2500@Inv Expansion.@@182@185@0@0@177@1@Goblin Point@Goblin Point@181@200@0@2|@7330@5@2@257|@0@0@669
+34@6@157@Vault Expansion@170@5000@Vault Expansion.@@182@185@0@0@177@1@Goblin Point@Goblin Point@181@200@0@2|@7331@5@2@258|@0@0@669
+33@6@158@Master Skill Tree@170@10000@Rebuild Skill Tree@@182@185@0@0@177@1@Goblin Point@Goblin Point@181@200@0@52|@7282@5@2@274|@0@0@669
+27@4@159@Master Seal of Ascencion@170@1000@+15 %Master EXP@@182@185@0@0@177@1@Goblin Point@Goblin Point@181@200@0@53|@6749@5@2@275|@0@0@669
+27@5@160@Master Seal of Ascencion@170@2500@+15 %Master EXP@@182@185@0@0@177@1@Goblin Point@Goblin Point@181@200@0@53|@6749@5@2@276|@0@0@669
+27@6@161@Master Seal of Ascencion@170@7500@+15 %Master EXP@@182@185@0@0@177@1@Goblin Point@Goblin Point@181@200@0@53|@6749@5@2@277|@0@0@669
+16@5@162@Master Seal of Wealth@170@500@+25 %Master EXP@@182@184@0@0@177@1@WCoin(P)@WCoin(P)@181@200@0@53|@6750@3@2@278|@0@509@669
+16@6@163@Master Seal of Wealth@170@1500@+25 %Master EXP@@182@184@0@0@177@1@WCoin(P)@WCoin(P)@181@200@0@53|@6750@3@2@279|@0@509@669
+16@7@164@Master Seal of Wealth@170@2000@+25 %Master EXP@@182@184@0@0@177@1@WCoin(P)@WCoin(P)@181@200@0@53|@6750@3@2@280|@0@509@669

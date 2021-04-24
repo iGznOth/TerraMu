@@ -1,0 +1,51 @@
+31@1@100@VIP@170@550@10% Extra Experience  #15% Extra Drop  #10% Chaos Machine Rate Extra (No visual)  #Reset Cost 15.000.000@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1000|@6780@2@3@1000|1001|1002|@0@508@669
+31@2@101@Seal of Ascension@170@190@Increase the experience received 10%@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1010|@6699@2@2@1010|1011|@0@508@669
+31@3@102@Master Seal of Ascension@170@225@Increase the MASTER experience received by 10%. # #Attention! Master Experience Only. @@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1020|@6749@2@2@1020|1021|@0@508@669
+31@4@103@Max AG Boost Aura@170@90@Incrementa temporalmente la regeneraci?n de AG@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1030|@6760@2@2@1030|1031|@0@508@669
+31@5@104@Talisman of Luck@170@25@Incease the probability of sucess in the Chaos Machine combinations by 1%. # #Maximum possible 10% for each@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1040|@7221@2@1@1040|@0@508@669
+31@6@105@Talisman of Chaos Assembly@170@990@When uploading your items (+10,+11,+12,+13,+14,+15) in case of failure the item is not lost, it returns to its original +0 state.@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1050|@7264@2@1@1050|@0@508@669
+31@7@106@Silver Key@170@290@Combine this key with a Silver Sealed Box to get a chest with a special reward!@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1060|@7280@2@1@1060|@0@508@669
+31@8@107@Gold Key@170@490@Combine this key with a Gold Sealed Box to get a chest with a special reward!@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1070|@7281@2@1@1070|@0@508@669
+31@9@108@Pet Egg@170@100@Contains a mysterious Pet.@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1080|@6831@2@1@1080|@0@508@669
+32@1@109@Magic Backpack@170@550@Unlock 1 Stage in extra inventory space (Press K)@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1090|@7330@2@1@1090|@0@508@669
+32@2@110@Vault Expansion Certificate@170@850@Expand Vault with this Item. # #You need relogin character.@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1100|@7331@2@1@1100|@0@508@669
+33@1@135@1st Lucky Armor Ticket@170@290@Get Lucky Set Tier 1 Armor from NPC David - Elbeland (20-214). # #Chance from item +0 to +15. #@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1350|@6791@2@1@1350|@0@508@669
+33@2@136@1st Lucky Pants Ticket@170@290@Get Lucky Set Tier 1 Pants from NPC David - Elbeland (20-214). # #Chance from item +0 to +15. #@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1360|@6792@2@1@1360|@0@508@669
+33@3@137@1st Lucky Helm Ticket@170@290@Get Lucky Set Tier 1 Helm from NPC David - Elbeland (20-214). # #Chance from item +0 to +15. #@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1370|@6793@2@1@1370|@0@508@669
+33@4@138@1st Lucky Gloves Ticket@170@290@Get Lucky Set Tier 1 Gloves from NPC David - Elbeland (20-214). # #Chance from item +0 to +15. #@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1380|@6794@2@1@1380|@0@508@669
+33@5@139@1st Lucky Boots Ticket@170@290@Get Lucky Set Tier 1 Boots from NPC David - Elbeland (20-214). # #Chance from item +0 to +15. #@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1390|@6795@2@1@1390|@0@508@669
+33@6@140@2sd Lucky Armor Ticket@170@390@Get Lucky Set Tier 2 Armor  from NPC David - Elbeland (20-214).  #  #Chance from item +0 to +15.  #@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1400|@6796@2@1@1400|@0@508@669
+33@7@141@2sd Lucky Pants Ticket@170@390@Get Lucky Set Tier 2 Pants  from NPC David - Elbeland (20-214). # #Chance from item +0 to +15. #@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1410|@6797@2@1@1410|@0@508@669
+33@8@142@2sd Lucky Helm Ticket@170@390@Get Lucky Set Tier 2 Helm  from NPC David - Elbeland (20-214).  #  #Chance from item +0 to +15.  #@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1420|@6798@2@1@1420|@0@508@669
+33@9@143@2sd Lucky Gloves Ticket@170@390@Get Lucky Set Tier 2 Gloves  from NPC David - Elbeland (20-214).  #  #Chance from item +0 to +15.  #@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1430|@6799@2@1@1430|@0@508@669
+33@10@144@2sd Lucky Boots Ticket@170@390@Get Lucky Set Tier 2 Boots  from NPC David - Elbeland (20-214).  #  #Chance from item +0 to +15.  #@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1440|@6800@2@1@1440|@0@508@669
+34@1@111@Reset Fruit Strength@170@40@Use this fruit to redistribute 500 Strength Points.   #   #Remember to take off all the equiment.@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1110|@6710@2@1@1110|@0@508@669
+34@2@112@Reset Fruit Quickness@170@40@Use this fruit to redistribute 500 Agility Points. # #Remember to take off all the equiment.@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1120|@6711@2@1@1120|@0@508@669
+34@3@113@Reset Fruit Health@170@40@Use this fruit to redistribute 500 Stamina Points.  #  #Remember to take off all the equiment.@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1130|@6712@2@1@1130|@0@508@669
+34@4@114@Reset Fruit Energy@170@40@Use this fruit to redistribute 500 Energy Points.  #  #Remember to take off all the equiment.@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1140|@6713@2@1@1140|@0@508@669
+34@5@115@Reset Fruit Control@170@40@Use this fruit to redistribute 500 Comand Points.  #  #Remember to take off all the equiment.@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1150|@6714@2@1@1150|@0@508@669
+34@6@116@Master Skill Reset@170@690@Reset your Master Skill Tree@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1160|@7282@2@1@1160|@0@508@669
+35@1@117@Demon@170@90@Increase Attack (or wizardy) Power +40%- #Increase Attack Speed +10@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1170|@6720@2@2@1170|1171|@0@508@669
+35@2@118@Spirit of Guardian@170@90@Reduce damage from Monster +30% #Increase Max HP +50.@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1180|@6721@2@2@1180|1181|@0@508@669
+35@3@119@Pet Rudolf@170@90@Automatically collects zen@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1190|@6723@2@2@1190|1191|@0@508@669
+35@4@134@Pet Panda@170@190@Increase the Experience Acquired by 20%   # #@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1340|@6874@2@3@1340|1341|1342|@0@508@669
+36@1@145@Wizards Ring@170@250@[ATK\WIZ DMG] [+10%] #[ATK Speed] [+10] #@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1450|@6676@2@1@1450|@0@508@669
+36@2@146@Elixir of Strength@170@50@Strength Increase +50 for a 1 Hour. You cannot use two elixirs or more at the same time.@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1460|@7246@2@1@1460|@0@508@669
+36@3@147@Elixir of Agility@170@50@Agility Increase +50 for a 1 Hour.You cannot use two elixirs or more at the same time.@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1470|@7247@2@1@1470|@0@508@669
+36@4@148@Elixir of Health@170@50@Vitality Increase +50 for a 1 Hour. You cannot use two elixirs or more at the same time.@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1480|@7248@2@1@1480|@0@508@669
+36@5@149@Elixir of Energy@170@50@Energy Increase +50 for a 1 Hour. You cannot use two elixirs or more at the same time.@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1490|@7249@2@1@1490|@0@508@669
+36@6@150@Elixir of Control@170@50@Command increase +50 for a 1 Hour. You cannot use two elixirs or more at the same time.@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1500|@7250@2@1@1500|@0@508@669
+37@1@120@Devil Square Ticket@170@125@10 Devil Square Ticket Entry@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1200|@6702@2@1@1200|@0@508@669
+37@2@121@Blood Castle Ticket@170@125@10 Blood Castle Ticket Entry@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1210|@6703@2@1@1210|@0@508@669
+37@3@122@Kalima Ticket@170@125@10 Kalima Ticket Entry@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1220|@6704@2@1@1220|@0@508@669
+61@1@123@Demon@170@900@Increase Attack (or wizardy) Power +40%-  #Increase Attack Speed +10@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1230|@6720@5@2@1230|1231|@1@0@669
+61@2@124@Spirit of Guardian@170@900@Reduce damage from Monster +30%  #Increase Max HP +50.@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1240|@6721@5@2@1240|1241|@1@0@669
+61@3@125@Pet Rudolf@170@90@Automatically collects zen@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1250|@6723@5@2@1250|1251|@1@0@669
+62@1@126@Devil Square Ticket@170@1250@10 Devil Square Ticket Entry@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1260|@6702@5@1@1260|@1@0@669
+62@2@127@Blood Castle Ticket@170@1250@10 Blood Castle Ticket Entry@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1270|@6703@5@1@1270|@1@0@669
+62@3@128@Kalima Ticket@170@1250@10 Kalima Ticket Entry@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1280|@6704@5@1@1280|@1@0@669
+63@1@129@Reset Fruit Strength@170@400@Use this fruit to redistribute 500 Strength Points.    #    #Remember to take off all the equiment.@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1290|@6710@5@1@1290|@1@0@669
+63@2@130@Reset Fruit Quickness@170@400@Use this fruit to redistribute 500 Agility Points.  #  #Remember to take off all the equiment.@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1300|@6711@5@1@1300|@1@0@669
+63@3@131@Reset Fruit Health@170@400@Use this fruit to redistribute 500 Stamina Points.   #   #Remember to take off all the equiment.@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1310|@6712@5@1@1310|@1@0@669
+63@4@132@Reset Fruit Energy@170@400@Use this fruit to redistribute 500 Energy Points.   #   #Remember to take off all the equiment.@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1320|@6713@5@1@1320|@1@0@669
+63@5@133@Reset Fruit Control@170@400@Use this fruit to redistribute 500 Comand Points.   #   #Remember to take off all the equiment.@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1330|@6714@5@1@1330|@1@0@669
