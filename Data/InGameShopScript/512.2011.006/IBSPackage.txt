@@ -1,15 +1,11 @@
-31@1@100@VIP@170@550@10% Extra Experience  #15% Extra Drop  #10% Chaos Machine Rate Extra (No visual)  #Reset Cost 15.000.000@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1000|@6780@2@3@1000|1001|1002|@0@508@669
+31@1@100@VIP@170@550@10% Extra Experience   #15% Extra Drop   #10% Chaos Machine Rate Extra (No visual)   #Reset Cost 15.000.000@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1000|@6780@2@3@1000|1001|1002|@0@508@669
 31@2@101@Seal of Ascension@170@190@Increase the experience received 10%@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1010|@6699@2@2@1010|1011|@0@508@669
 31@3@102@Master Seal of Ascension@170@225@Increase the MASTER experience received by 10%. # #Attention! Master Experience Only. @@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1020|@6749@2@2@1020|1021|@0@508@669
 31@4@103@Max AG Boost Aura@170@90@Incrementa temporalmente la regeneraci?n de AG@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1030|@6760@2@2@1030|1031|@0@508@669
-31@5@104@Talisman of Luck@170@25@Incease the probability of sucess in the Chaos Machine combinations by 1%. # #Maximum possible 10% for each@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1040|@7221@2@1@1040|@0@508@669
+31@5@104@Talisman of Luck@170@25@Incease the probability of sucess in the Chaos Machine combinations by 1%.   #   #Maximum possible 10% for each@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1040|@7221@2@1@1040|@0@508@669
 31@6@105@Talisman of Chaos Assembly@170@990@When uploading your items (+10,+11,+12,+13,+14,+15) in case of failure the item is not lost, it returns to its original +0 state.@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1050|@7264@2@1@1050|@0@508@669
-31@7@106@Silver Key@170@290@Combine this key with a Silver Sealed Box to get a chest with a special reward!@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1060|@7280@2@1@1060|@0@508@669
-31@8@107@Gold Key@170@490@Combine this key with a Gold Sealed Box to get a chest with a special reward!@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1070|@7281@2@1@1070|@0@508@669
-31@9@108@Pet Egg@170@100@Contains a mysterious Pet.@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1080|@6831@2@1@1080|@0@508@669
 32@1@109@Magic Backpack@170@550@Unlock 1 Stage in extra inventory space (Press K)@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1090|@7330@2@1@1090|@0@508@669
 32@2@110@Vault Expansion Certificate@170@850@Expand Vault with this Item. # #You need relogin character.@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1100|@7331@2@1@1100|@0@508@669
-33@1@135@1st Lucky Armor Ticket@170@290@Get Lucky Set Tier 1 Armor from NPC David - Elbeland (20-214). # #Chance from item +0 to +15. #@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1350|@6791@2@1@1350|@0@508@669
 33@2@136@1st Lucky Pants Ticket@170@290@Get Lucky Set Tier 1 Pants from NPC David - Elbeland (20-214). # #Chance from item +0 to +15. #@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1360|@6792@2@1@1360|@0@508@669
 33@3@137@1st Lucky Helm Ticket@170@290@Get Lucky Set Tier 1 Helm from NPC David - Elbeland (20-214). # #Chance from item +0 to +15. #@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1370|@6793@2@1@1370|@0@508@669
 33@4@138@1st Lucky Gloves Ticket@170@290@Get Lucky Set Tier 1 Gloves from NPC David - Elbeland (20-214). # #Chance from item +0 to +15. #@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1380|@6794@2@1@1380|@0@508@669
@@ -28,7 +24,7 @@
 35@1@117@Demon@170@90@Increase Attack (or wizardy) Power +40%- #Increase Attack Speed +10@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1170|@6720@2@2@1170|1171|@0@508@669
 35@2@118@Spirit of Guardian@170@90@Reduce damage from Monster +30% #Increase Max HP +50.@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1180|@6721@2@2@1180|1181|@0@508@669
 35@3@119@Pet Rudolf@170@90@Automatically collects zen@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1190|@6723@2@2@1190|1191|@0@508@669
-35@4@134@Pet Panda@170@190@Increase the Experience Acquired by 20%   # #@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1340|@6874@2@3@1340|1341|1342|@0@508@669
+35@4@108@Pet Panda@170@90@20% Extra Experience    #@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1080|@6874@2@3@1080|1081|1082|@0@508@669
 36@1@145@Wizards Ring@170@250@[ATK\WIZ DMG] [+10%] #[ATK Speed] [+10] #@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1450|@6676@2@1@1450|@0@508@669
 36@2@146@Elixir of Strength@170@50@Strength Increase +50 for a 1 Hour. You cannot use two elixirs or more at the same time.@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1460|@7246@2@1@1460|@0@508@669
 36@3@147@Elixir of Agility@170@50@Agility Increase +50 for a 1 Hour.You cannot use two elixirs or more at the same time.@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1470|@7247@2@1@1470|@0@508@669
@@ -38,6 +34,14 @@
 37@1@120@Devil Square Ticket@170@125@10 Devil Square Ticket Entry@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1200|@6702@2@1@1200|@0@508@669
 37@2@121@Blood Castle Ticket@170@125@10 Blood Castle Ticket Entry@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1210|@6703@2@1@1210|@0@508@669
 37@3@122@Kalima Ticket@170@125@10 Kalima Ticket Entry@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1220|@6704@2@1@1220|@0@508@669
+38@1@106@Scroll of Battle@170@450@Critical Damage Increase + 20%@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1060|@7265@2@1@1060|@0@508@669
+38@2@107@Scroll of Strength@170@450@Excellent Damage Increase + 20%@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1070|@7266@2@1@1070|@0@508@669
+38@3@134@Scroll of Quickness@170@450@Attack Speed Increase +15@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1340|@7240@2@1@1340|@0@508@669
+38@4@135@Scroll of Wrath@170@250@Attack Power Increase +30@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1350|@7242@2@1@1350|@0@508@669
+38@5@151@Scroll of Defense@170@250@Defense Increase +60@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1510|@7241@2@1@1510|@0@508@669
+38@6@152@Scroll of Wizardry@170@250@Wizard Dmg Increase +30@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1520|@7243@2@1@1520|@0@508@669
+38@7@153@Scroll of Health@170@150@HP Increase +200@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1530|@7244@2@1@1530|@0@508@669
+38@8@154@Scroll of Mana@170@150@Mana Increase +300@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1540|@7245@2@1@1540|@0@508@669
 61@1@123@Demon@170@900@Increase Attack (or wizardy) Power +40%-  #Increase Attack Speed +10@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1230|@6720@5@2@1230|1231|@1@0@669
 61@2@124@Spirit of Guardian@170@900@Reduce damage from Monster +30%  #Increase Max HP +50.@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1240|@6721@5@2@1240|1241|@1@0@669
 61@3@125@Pet Rudolf@170@90@Automatically collects zen@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1250|@6723@5@2@1250|1251|@1@0@669
